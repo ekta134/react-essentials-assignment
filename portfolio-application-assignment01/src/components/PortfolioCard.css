@@ -1,0 +1,149 @@
+/* Container */
+
+.container{
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:#f3f4f6;
+  font-family:Arial, Helvetica, sans-serif;
+  
+}
+
+/* Light Theme */
+
+.container.light{
+  background:#f5f7fa;
+  color:#222;
+}
+
+/* Dark Theme */
+
+.container.dark{
+  background:#1e1e1e;
+  color:white;
+}
+
+/* Card */
+
+.card{
+  background:white;
+  width:500px;
+  padding:30px;
+  border-radius:18px;
+  box-shadow:0 10px 30px rgba(0,0,0,0.15);
+}
+
+.container.dark .card{
+  background:#2a2a2a;
+}
+
+/* Profile section */
+
+.profile{
+  display:flex;
+  align-items:center;
+  gap:18px;
+  margin-bottom:20px;
+}
+
+/* Profile Image */
+
+.profile img{
+  width:100px;
+  height:100px;
+  border-radius:50%;
+  object-fit:cover;
+ box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  
+}
+.user-info h2{
+  margin:0;
+}
+
+.user-info h4{
+  margin-top:5px;
+  color:#6b7280;
+  font-weight:500;
+}
+
+.bio{
+  color:#4b5563;
+  line-height:1.6;
+  margin:20px 0;
+  font-weight: 700;
+}
+
+/* Skills */
+
+h4{
+  margin-bottom:10px;
+  color:#6b7280;
+}
+
+.skills{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin-top:15px;
+  margin-bottom:25px;
+}
+
+.badge{
+  background:#e5e7eb;
+  padding:10px 16px;
+  border-radius:20px;
+  font-size:16px;
+}
+
+/* Action buttons */
+
+.actions {
+  display: flex;
+  gap: 25px; /* space between buttons */
+  margin-top: 40px; /* move buttons away from content above */
+}
+
+.actions button{
+  padding:6px 12px;
+  border:none;
+  border-radius:6px;
+  cursor:pointer;
+  color:#6b7280;
+  font-size:14px;
+  transition:0.2s;
+  
+}
+
+.actions button.contact-btn {
+  background: #5563d6; /* red/pink background */
+  color: white;              /* text color */
+  font-size: 18px;           /* bigger font size */
+  padding: 10px 20px;        /* adjust padding */
+  border-radius: 8px;        /* rounded corners */
+  transition: 0.2s;
+
+}
+
+.fraction {
+  margin-top: 12px;
+}
+
+.container.dark .badge {
+  background: #3a3a3a;   /* optional: slightly darker background */
+  color: #d1d1d1;        /* soft black / gray text */
+}
+
+/* Toggle button */
+
+.container > button{
+  position:absolute;
+  top:20px;
+  right:20px;
+  padding:8px 12px;
+  border:none;
+  border-radius:6px;
+  cursor:pointer;
+  background:#333;
+  color:white;
+}
