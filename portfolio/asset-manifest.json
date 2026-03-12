@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-essentials-assignment/portfolio/static/css/main.670c5e50.css",
+    "main.js": "/react-essentials-assignment/portfolio/static/js/main.2a7644b7.js",
+    "static/js/453.6e11929b.chunk.js": "/react-essentials-assignment/portfolio/static/js/453.6e11929b.chunk.js",
+    "index.html": "/react-essentials-assignment/portfolio/index.html",
+    "main.670c5e50.css.map": "/react-essentials-assignment/portfolio/static/css/main.670c5e50.css.map",
+    "main.2a7644b7.js.map": "/react-essentials-assignment/portfolio/static/js/main.2a7644b7.js.map",
+    "453.6e11929b.chunk.js.map": "/react-essentials-assignment/portfolio/static/js/453.6e11929b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.670c5e50.css",
+    "static/js/main.2a7644b7.js"
+  ]
+}
