@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-essentials-assignment/static/css/main.78e1f01e.css",
-    "main.js": "/react-essentials-assignment/static/js/main.53f14acc.js",
-    "static/js/453.53f90de2.chunk.js": "/react-essentials-assignment/static/js/453.53f90de2.chunk.js",
+    "main.css": "/react-essentials-assignment/static/css/main.670c5e50.css",
+    "main.js": "/react-essentials-assignment/static/js/main.00e3174d.js",
+    "static/js/453.6e11929b.chunk.js": "/react-essentials-assignment/static/js/453.6e11929b.chunk.js",
     "index.html": "/react-essentials-assignment/index.html",
-    "main.78e1f01e.css.map": "/react-essentials-assignment/static/css/main.78e1f01e.css.map",
-    "main.53f14acc.js.map": "/react-essentials-assignment/static/js/main.53f14acc.js.map",
-    "453.53f90de2.chunk.js.map": "/react-essentials-assignment/static/js/453.53f90de2.chunk.js.map"
+    "main.670c5e50.css.map": "/react-essentials-assignment/static/css/main.670c5e50.css.map",
+    "main.00e3174d.js.map": "/react-essentials-assignment/static/js/main.00e3174d.js.map",
+    "453.6e11929b.chunk.js.map": "/react-essentials-assignment/static/js/453.6e11929b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78e1f01e.css",
-    "static/js/main.53f14acc.js"
+    "static/css/main.670c5e50.css",
+    "static/js/main.00e3174d.js"
   ]
 }
